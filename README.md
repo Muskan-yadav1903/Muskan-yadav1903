@@ -18,7 +18,7 @@ src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab
 
 - 💬 Ask me about **MEARN**
 
-- ⚡ Fun fact **Fun fact Transforming ideas into reality**
+- ⚡ Fun fact Transforming ideas into reality
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
