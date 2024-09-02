@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
+
+
 <img align="right" alt="Coding" width="400" 
 src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan-yadav1903&label=Profile%20views&color=0e75b6&style=flat" alt="muskan-yadav1903" /> </p>
 
-- 🔭 I’m currently working on Multiple Shopping website price compare on one website CompareCart.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning Java.
+- 🔭 I’m currently working on **Multiple Shopping website price compare on one website CompareCart**
+
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muskan-yadav1903](https://github.com/Muskan-yadav1903)
 
-- 💬 Ask me about MEARN
+- 💬 Ask me about **MEARN**
 
-- ⚡ Fun fact Transforming ideas into reality
+- ⚡ Fun fact **Fun fact Transforming ideas into reality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
