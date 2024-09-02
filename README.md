@@ -5,9 +5,9 @@ src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan-yadav1903&label=Profile%20views&color=0e75b6&style=flat" alt="muskan-yadav1903" /> </p>
 
-- 🔭 I’m currently working on Multiple Shopping website price compare on one website CompareCart
+- 🔭 I’m currently working on Multiple Shopping website price compare on one website CompareCart.
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muskan-yadav1903](https://github.com/Muskan-yadav1903)
 
