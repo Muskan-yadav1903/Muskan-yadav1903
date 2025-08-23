@@ -50,7 +50,6 @@ Tech: Node.js, Express.js, Socket.io, Chess.js
 ## 📊 GitHub Stats  
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-yadav1903&layout=compact&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muskan-yadav1903&theme=tokyonight)  
 
 ---
 ## 🌐 Connect with Me  
