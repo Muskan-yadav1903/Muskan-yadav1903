@@ -7,6 +7,7 @@ Passionate about designing scalable applications, real-time systems, and solving
 
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science Engineering** (Kurukshetra University, 2021–2025) – CGPA: 7.6  
+- 💼 Software Developer Intern at **Cha Chi Communications Private Limited. (Feb 2026 Present)**  
 - 💼 Full Stack Development Intern at **ThinkNext Technologies Pvt. Ltd. (Jul 2024 – Sep 2024)**  
 - 🛠 Strong in **Web Development, Data Structures, Algorithms, and Cloud Integration**  
 - 🏆 Active participant in **Hackathons (SIH, Kavach, Flipkart Grid 5.0)** and winner of multiple **college tech & cultural events**  
