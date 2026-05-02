@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Muskan Yadav  
-
 💻 **Software Engineer | Full Stack Developer | Problem Solver**  
 Passionate about designing scalable applications, real-time systems, and solving complex problems with clean and efficient code.  
 
@@ -7,16 +6,44 @@ Passionate about designing scalable applications, real-time systems, and solving
 
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science Engineering** (Kurukshetra University, 2021–2025) – CGPA: 7.6  
-- 💼 Software Developer Intern at **Cha Chi Communications Private Limited. (Feb 2026 Present)**  
-- 💼 Full Stack Development Intern at **ThinkNext Technologies Pvt. Ltd. (Jul 2024 – Sep 2024)**  
+- 💼 Software Developer Intern at **Cha Chi Communications Private Limited** *(Feb 2026 – Present)*  
+- 💼 Full Stack Development Intern at **ThinkNext Technologies Pvt. Ltd.** *(Jul 2024 – Sep 2024)*  
 - 🛠 Strong in **Web Development, Data Structures, Algorithms, and Cloud Integration**  
 - 🏆 Active participant in **Hackathons (SIH, Kavach, Flipkart Grid 5.0)** and winner of multiple **college tech & cultural events**  
 - 🎯 Enthusiastic about building real-time apps, microservices, and REST APIs  
 
 ---
 
-## 🛠 Tech Stack  
+## 💼 Experience
 
+### 🏢 Software Developer Intern — *Cha Chi Communications Private Limited*
+📅 **Feb 2026 – Present** | 📍 Gurugram, India
+
+> End-to-end ownership of the [indexnation.ai](https://indexnation.ai) platform — from UI development to backend integration and production deployment.
+
+- 🚀 Built and deployed the **[indexnation.ai](https://indexnation.ai)** platform end-to-end, handling frontend development, backend integration, and production deployment using **React.js, Node.js, Express.js, and MongoDB**
+- 🔗 Developed and maintained **scalable full-stack web applications**, implementing RESTful APIs to enable efficient data flow and seamless communication between frontend and backend systems
+- 🎨 Designed **responsive, high-performance UIs** using Tailwind CSS, ensuring an intuitive user experience and cross-device compatibility across web platforms
+- ⚡ Optimized application performance through **efficient debugging, code refactoring, and best development practices**, resulting in faster load times and improved system reliability
+- 🤝 Collaborated with cross-functional teams in an **agile environment** to ship new features, resolve technical issues, and continuously improve application functionality and stability
+
+---
+
+### 🏢 Full Stack Development Intern — *ThinkNext Technologies Pvt. Ltd.*
+📅 **Jul 2024 – Sep 2024** | 📍 India
+
+> Gained hands-on experience in end-to-end web application development in a team-driven, agile environment.
+
+- 🌐 Built and deployed **responsive full-stack web applications** using React.js, Node.js, Express.js, and MongoDB
+- 🗄️ Designed **database schemas** and handled CRUD operations with MongoDB, improving data retrieval efficiency
+- 🔐 Implemented **user authentication and session management** using JWT and secure middleware patterns
+- 🎨 Developed pixel-perfect, **mobile-responsive UIs** with React.js and TailwindCSS from design wireframes
+- ⚡ Integrated **real-time features** using Socket.io, enhancing user engagement and interactivity
+- 📚 Participated in daily standups, sprint planning, and code reviews, adapting to **agile development practices**
+
+---
+
+## 🛠 Tech Stack  
 **Languages:** JavaScript, C, C++  
 **Frameworks & Libraries:** Node.js, Express.js, React.js, TailwindCSS, HTML5, CSS  
 **Databases:** MongoDB, Firebase  
@@ -49,30 +76,17 @@ Tech: Node.js, Express.js, Socket.io, Chess.js
 ---
 
 ## 📊 GitHub Stats  
- 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-yadav1903&layout=compact&theme=tokyonight)  
 
 ---
+
 ## 🌐 Connect with Me  
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Muskan-yadav1903/Protfolio.git)  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-yadav-3b7990265/)  
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muskan-yadav1903)  
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/MuskanYadav19/)  
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanyadav8901@gmail.com)  
 
 ---
 
-⭐️ _“Code is where imagination meets logic — I love turning ideas into impactful solutions.”_
-
-
----
-
-
-
-
-
+⭐️ _"Code is where imagination meets logic — I love turning ideas into impactful solutions."_
